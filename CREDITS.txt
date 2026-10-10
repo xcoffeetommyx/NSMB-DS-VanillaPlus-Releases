@@ -1,0 +1,58 @@
+NEW SUPER MARIO BROS. DS: VANILLA+ - CREDITS
+
+Nintendo
+  Original New Super Mario Bros. DS and Wii games, artwork, sound and animation.
+
+TheGameratorT, Shadey21 and the NSMB Co-op contributors
+  NSMB Co-op v2.4 English: full campaign co-op engine and SelectDeploy reference.
+  https://github.com/ShaneDoyle/nsmb-coop
+  https://github.com/ShaneDoyle/nsmb-coop/releases/tag/v2.4
+
+Newer Team
+  Newer Super Mario Bros. DS 1.19 USA: compatible enemy/object visual donor.
+  https://newerteam.com/ds/
+  https://github.com/Newer-Team/NewerSMBDS
+
+Mamma Mia Team
+  NSMB Code Reference: USA ABI research.
+  https://github.com/MammaMiaTeam/NSMB-Code-Reference
+
+NSMBW Community
+  NSMBW Decomp: airborne twirl, lift, carry, throw, crouch and rolling reference.
+  https://github.com/NSMBW-Community/NSMBW-Decomp
+
+RoadrunnerWMC and contributors
+  ndspy: ROM parsing and assembly.
+  https://github.com/RoadrunnerWMC/ndspy
+
+Arisotura, melonDS contributors and libretro contributors
+  melonDS and the melonDS libretro core: testing.
+  https://github.com/melonDS-emu/melonDS
+  https://github.com/libretro/melonDS
+
+Wiimm
+  Wiimms ISO Tools: local WBFS extraction.
+  https://wit.wiimm.de/
+
+Ogu99, Nin0 and contributors
+  Pysar: Wii sound cue rendering.
+  https://github.com/Developers-Collective/Pysar
+
+Hayden0729 and contributors
+  BerryBush: CHR0 decoding and Wii rotation conversion (GPL-3.0 tool).
+  https://github.com/hayden0729/berrybush
+
+scurest
+  Nitro model/animation format research.
+  https://github.com/scurest/nsbmd_docs
+
+ARM GNU Toolchain, xdelta3, Unicorn, pyelftools and Pillow
+  Build, conversion and verification tools.
+
+Vanilla+ project
+  Cartridge picker, gameplay adapters, Wii asset conversion, shared-save
+  adapter, classic sprite/model texture clarity passes and release integration.
+
+This is an unofficial fan project, not affiliated with or endorsed by Nintendo,
+the Newer Team or the NSMB Co-op authors. Credit for the original games and
+donor work belongs to their respective creators.
