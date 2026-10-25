@@ -1,3 +1,56 @@
+# New Super Mario Bros. DS: Vanilla+ — Native Windows Builder
+
+[Download the current GUI Offline Builder](https://github.com/xcoffeetommyx/NSMB-DS-VanillaPlus-Releases/releases/tag/native-v1.2)
+
+Build a native Windows game from your own clean USA ROM. The builder includes
+its dependencies and runs offline. No Python, Git, Visual Studio, or SDK setup
+is required. Game code is generated and compiled locally from your ROM.
+
+1. Download **NSMB-VanillaPlus-Offline-Builder.zip** under the release's Assets.
+   GitHub's automatic **Source code** archives are not the builder.
+2. Extract the entire ZIP to a writable local folder.
+3. Open **VanillaPlus Builder.exe**, then choose or drop in your ROM.
+4. Select **Build**. The window shows progress, elapsed time, and any
+   error code/reason. Compilation happens once; no terminal is needed.
+5. Select Play when it finishes. Next time, open **Play-VanillaPlus.exe**.
+   Keep it beside the **Support** folder.
+
+The initial download opens to the builder, README.txt, and Support. Required
+source, tools, checks, and license notices are kept in Support. Build logs are
+available from the GUI. Your supplied ROM is never changed.
+
+## Requirements and play
+
+- Windows 10/11, 64-bit x64 PC, working graphics drivers, and several GB free.
+- Clean, untrimmed USA A2DE ROM: **33,554,432 bytes**.
+  SHA-256: `9f67fef1b4c73e966767f6153431ada3751dc1b0da2c70f386c14a5e3017f354`.
+- Native single-screen widescreen presentation, separate 2D/3D scaling, and
+  local campaign co-op with two controllers in one instance.
+- Escape opens settings/controller assignments. Alt+Enter toggles exclusive
+  fullscreen. Select toggles map information and uses reserve items in stages.
+
+Both ARM9 and ARM7 use static-only execution. The release notes and bundled
+Support/docs/VALIDATION.md state the measured build time and exact test scope.
+Microphone support remains paused. Retail Mario vs. Luigi and minigame
+VS/DS Download Play are unavailable; fixed-layout 2D minigames remain 4:3.
+The current builder also fixes the co-op missed-flagpole crash and missing
+World 2 jump/coin effects, and avoids re-uploading an unchanged HUD texture.
+Other documented gameplay limitations remain unchanged.
+
+Share the original builder ZIP, not your built game folder. The local output
+contains code and data derived from your ROM; no playable ROM or generated
+game executable is included in the download.
+
+## Older releases
+
+The [original v1.0 ROM patch](https://github.com/xcoffeetommyx/NSMB-DS-VanillaPlus-Releases/releases/tag/v1.0)
+and earlier native builders remain available for history. Their original tags
+and assets are preserved. The guide below applies only to the older ROM patch,
+including its separate local-wireless setup.
+
+<details>
+<summary>Original v1.0 ROM-patch guide (legacy; preserved)</summary>
+
 NEW SUPER MARIO BROS. DS: VANILLA+
 Version 1.0 | USA A2DE | 2026-10-09
 
@@ -98,3 +151,5 @@ SHARING
 Share this ZIP or its xdelta patch. The archive contains the patch, this README,
 credits and checksums. No playable ROM, save, BIOS or donor disc is included.
 Keep CREDITS.txt with the release.
+
+</details>
