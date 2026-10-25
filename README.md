@@ -1,6 +1,6 @@
 # New Super Mario Bros. DS: Vanilla+ — Native Windows Builder
 
-[Download the current GUI Offline Builder](https://github.com/xcoffeetommyx/NSMB-DS-VanillaPlus-Releases/releases/tag/native-v1.2)
+[Download the current GUI Offline Builder](https://github.com/xcoffeetommyx/NSMB-DS-VanillaPlus-Releases/releases/tag/native-v1.3)
 
 Build a native Windows game from your own clean USA ROM. The builder includes
 its dependencies and runs offline. No Python, Git, Visual Studio, or SDK setup
@@ -35,6 +35,9 @@ Microphone support remains paused. Retail Mario vs. Luigi and minigame
 VS/DS Download Play are unavailable; fixed-layout 2D minigames remain 4:3.
 The current builder also fixes the co-op missed-flagpole crash and missing
 World 2 jump/coin effects, and avoids re-uploading an unchanged HUD texture.
+Native v1.3 also fixes Mario’s offscreen intro movement, flower flicker, the
+lightning ground seam, and the shared view/return prompt when one co-op player
+dies. Both players dying still uses the normal level exit.
 Other documented gameplay limitations remain unchanged.
 
 Share the original builder ZIP, not your built game folder. The local output
