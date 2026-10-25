@@ -1,4 +1,4 @@
-# New Super Mario Bros. DS: Vanilla+ — Native Windows Builder
+# New Super Mario Bros. DS: Vanilla+ â€” Native Windows Builder
 
 [Download the Offline Builder](https://github.com/xcoffeetommyx/NSMB-DS-VanillaPlus-Releases/releases/latest)
 
@@ -41,7 +41,8 @@ The download contains no playable ROM or generated game executable.
   low ceilings. Either player can return after dying while their partner lives.
 
 The current build includes reliable minigame startup after earlier menu activity
-and corrected widescreen Copy/Erase selection, confirmation, and result screens.
+and corrected widescreen Options, Copy/Erase selection, confirmation, and result
+screens. Sound arrows, the control diagram and OK retain their touch controls.
 Mega Mushroom pickups and expanded intro geometry are also supported.
 
 ## Compatibility notes
