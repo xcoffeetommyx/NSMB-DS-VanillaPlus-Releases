@@ -40,6 +40,9 @@ The download contains no playable ROM or generated game executable.
   cannot crouch, and the passenger can jump free or crouch automatically under
   low ceilings. Either player can return after dying while their partner lives.
 
+The current build includes the Mega Mushroom pickup fix for solo and both co-op
+players, plus corrected polygon handling for intact widescreen intro models.
+
 ## Compatibility notes
 
 Microphone support is paused. Retail Mario vs. Luigi and minigame VS / DS
