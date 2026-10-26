@@ -1,4 +1,4 @@
-# New Super Mario Bros. DS: Vanilla+ â€” Native Windows Builder
+# New Super Mario Bros. DS: Vanilla+ Native Windows Builder
 
 [Download the Offline Builder](https://github.com/xcoffeetommyx/NSMB-DS-VanillaPlus-Releases/releases/latest)
 
